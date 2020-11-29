@@ -1,9 +1,9 @@
-# test repo
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Markdown Generator
+  
   
   ## Description
   
-  a test repo
+  A simple node js app to quickly generate a README file for Github projects.
   
   ## Table of Contents 
   
@@ -11,8 +11,6 @@
   
   * [Usage](#usage)
   
-* [License](#license)
-
   * [Contributing](#contributing)
   
   * [Tests](#tests)
@@ -29,15 +27,13 @@
   
   ## Usage
   
-  not now
+  Use this app to quickly generate a README file for any of your Github repos.
   
-  ## License
   
-  This project is licensed under the MIT license.
     
   ## Contributing
   
-  pull request
+  If you would like to contribute, feel free to open a new pull request.
   
   ## Tests
   
@@ -49,6 +45,6 @@
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at niko@email.com. You can find more of my work at [niko](https://github.com/niko/).
+  If you have any questions about the repo, open an issue or contact me directly at nikohaug21@gmail.com. You can find more of my work at [nikolas-haug](https://github.com/nikolas-haug/).
   
   
